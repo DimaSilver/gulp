@@ -1,0 +1,34 @@
+{
+  "name": "gulp-start-v.2",
+  "version": "1.0.0",
+  "description": "My gulp-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DimaSilver/gulp.git"
+  },
+  "author": "Dmitrii Krapyvianskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaSilver/gulp/issues"
+  },
+  "homepage": "https://github.com/DimaSilver/gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify-es": "^2.0.0",
+    "jquery": "^3.5.1",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
